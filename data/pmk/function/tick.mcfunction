@@ -1,0 +1,1 @@
+execute as @a[scores={Print=1..}] run function pmk:print
