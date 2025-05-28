@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "description": "将我的键位绑定打印到聊天框\nby一条鱼丸_",
+        "pack_format": 61
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "1_20_6",
+                "formats": {
+                    "max_inclusive": 41,
+                    "min_inclusive": 18
+                }
+            },
+            {
+                "directory": "1_21_5",
+                "formats": {
+                    "min_inclusive": 71,
+                    "max_inclusive": 100
+                }
+            }
+        ]
+    }
+}
